@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @berkay1234567
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity Games
-- 📫 How to reach me berkayozdemir764@gmail.con
+# Hi, I'm Berkay 👋
 
-<!---
-berkay1234567/berkay1234567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### .NET Software Engineer (4+ years)
+Experienced in building scalable backend applications with **C#**, **.NET**, and **SQL**.  
+Currently seeking opportunities in **Germany / Europe**.
+
+**Skills:** .NET Core · C# · EF Core · Web API · SQL · Docker · Git · Clean Architecture  
+**Email:** berkayozdemir764@gmail.com
