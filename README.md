@@ -3,9 +3,6 @@
 ## 💻 .NET Software Engineer | 4+ Years Experience
 I am a passionate software engineer specializing in **.NET**, **C#**, backend development, and scalable system design.  
 I enjoy creating clean, maintainable, and high-performance applications — from enterprise systems to personal backend projects.
-
-I am currently looking for opportunities to **relocate to  Germany** to continue my career in a dynamic and innovative environment.
-
 ---
 
 ## 📂 About My GitHub Activity
@@ -44,15 +41,13 @@ I still try to upload personal projects, experiments, and learning materials whe
 ---
 
 ## 🌍 Career Goals
-✔ Relocate to **Germany / Europe**  
-✔ Work as a **.NET Backend Engineer**  
 ✔ Contribute to scalable backend systems and cloud-native solutions  
 
 ---
 
 ## 📫 Contact Me
 - **Email:** berkayozdemir764@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/berkay-%C3%B6zdemir-086323229/
+- **LinkedIn:** https://www.linkedin.com/in/berkayyozdemirr/
 
 ---
 
